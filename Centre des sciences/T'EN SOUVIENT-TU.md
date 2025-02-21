@@ -1,10 +1,10 @@
 # Fiche d'oeuvre : T'EN SOUVIENT-TU?
-** Lieu : Centre des sciences de Montreal **
-** Date de la visite: 31/01/2025 **
-** Nom de l'exposition: BANQUET **
-** Type d'exposition: exposition temporaire **
-** Exposition choisie: T'EN SOUVIENT-TU? **
-** Année de realisation: 2025 **
+### Lieu : Centre des sciences de Montreal 
+### Date de la visite: 31/01/2025 
+### Nom de l'exposition: BANQUET 
+### Type d'exposition: exposition temporaire 
+### Exposition choisie: T'EN SOUVIENT-TU? 
+### Année de realisation: 2025 
 
 ![Oeuvre](.//medias/paneau a l'entrée.jfif)
 
