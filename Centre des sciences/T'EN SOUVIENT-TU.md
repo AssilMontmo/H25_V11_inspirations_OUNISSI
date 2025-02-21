@@ -1,10 +1,10 @@
 # Fiche d'oeuvre : T'EN SOUVIENT-TU?
-## Lieu : Centre des sciences de Montreal 
-## Date de la visite: 31/01/2025 
-## Nom de l'exposition: BANQUET
-## Type d'exposition: exposition temporaire
-## Exposition choisie: T'EN SOUVIENT-TU?
-## Année de realisation: 2025
+** Lieu : Centre des sciences de Montreal **
+** Date de la visite: 31/01/2025 **
+** Nom de l'exposition: BANQUET **
+** Type d'exposition: exposition temporaire **
+** Exposition choisie: T'EN SOUVIENT-TU? **
+** Année de realisation: 2025 **
 
 ![Oeuvre](.//medias/)
 
@@ -39,3 +39,5 @@ Je pense que le visiteur n'a pas suffisament de controle sur l'oeuvre, et que re
 Pouvoir faire pause/play ainsi qu'avoir le controle pour retourner en arriere de quelques secondes avec un simple click rendrait l'éxperience beaucoup plus plaisante.
 
 ## Réferences
+Toutes les photos ont été prise par Assil Ounissi avec un Samsung Galaxy S24 FE
+📍Centre des Sciences de Montréal, QC, Canada
