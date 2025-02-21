@@ -20,11 +20,11 @@ L'installation servait a offrir aux visiteurs un endroit ou s'assoir et profiter
 Installation plutot simple, nous avons un grand écran faisant defiller une serie de videos en boucle, ainsi qu'un bouton pour recommencer l'enregistrement audio. Des chaises sont disponible pour les visiteur et les haut parleurs sont bien positionner pour permettre a tout le monde de bien entendre le recit.
 
 ![exemple](.//Medias/Speaker_1.jpg)
-![exemple](.//Medias/vue_Complet_Gauche.jpg)
+![exemple](.//Medias/Vue_Complet_Gauche.jpg)
 
 ### Exemple de l'affichage:
 ![Infos](.//Medias/Fiche.jpg)
-![Gros_Plan](.//Medias/Vu_Interieur.jpg)
+![Gros_Plan](.//Medias/Vu_interieur.jpg)
 
 ### Interactions disponible:
 ![Bouton](.//Medias/Boutons.jpg)
