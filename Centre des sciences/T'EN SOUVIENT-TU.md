@@ -6,7 +6,7 @@
 ### Exposition choisie: T'EN SOUVIENT-TU? 
 ### Année de realisation: 2025 
 
-![Oeuvre](.//medias/Debut.jfif)
+![Oeuvre](.//medias/Debut.jpg)
 
 ## Introduction
 Nous avons pu visité le centre des sciences de Montreal avec notre classe le 31 Janvier 2025. Parmi toute les expositions disponible, celle qui m'a le plus attirée étaient T'EN SOUVIENT-TU.
