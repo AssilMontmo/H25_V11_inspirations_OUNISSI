@@ -1,9 +1,9 @@
 # Fiche d'oeuvre : Résonance
-### Lieu : College Montmorency 
-### Date de la visite: 18/03/2025 
-### Nom de l'exposition: Résonance 
-### Type d'exposition: exposition temporaire 
-### Année de realisation: 2025 
+- [ ] Lieu : College Montmorency 
+- [ ] Date de la visite: 18/03/2025 
+- [ ] Nom de l'exposition: Résonance 
+- [ ] Type d'exposition: exposition temporaire 
+- [ ] Année de realisation: 2025 
 
 ![intro](.//inserer une image de moi.jpg)
 
