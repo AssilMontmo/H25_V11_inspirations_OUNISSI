@@ -15,6 +15,16 @@ Voici ce que j'en ai penser.
 
 ## Description
 
+Le projet est proposé comme suit. <BR>
+Les étudiants on diviser l'exposition en 7 differents projets, réuni au college dans 2 salles différentes: <BR>
+- [ ] Le petit studio reunissant 2 projets. <BR>
+- [ ] Le grand studio reunissant les 5 autres.
+
+## Projets disponibles:
+
+Les projets sont tous interractifs. Nous avons pu en classe intéragir avec tout les dispositifs a l'exception de celui qui était fermer lors de notre visite. Voici mes ressenti. <BR>
+
+
 
 ## Installation
 
@@ -22,7 +32,7 @@ Voici ce que j'en ai penser.
 ### Exemple de l'affichage:
 
 
-### Interactions disponible:
+
 
 
 ## Conclusion
