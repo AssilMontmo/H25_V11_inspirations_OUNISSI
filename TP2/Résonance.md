@@ -22,8 +22,16 @@ Les étudiants on diviser l'exposition en 7 differents projets, réuni au colleg
 
 ## Projets disponibles:
 
-Les projets sont tous interractifs. Nous avons pu en classe intéragir avec tout les dispositifs a l'exception de celui qui était fermer lors de notre visite. Voici mes ressenti. <BR>
+Les projets sont tous interractifs. Nous avons pu en classe intéragir avec tout les dispositifs a l'exception de celui qui était fermer lors de notre visite. Voici mes ressentis. <BR>
 
+La premiere installation visité a été celle de <BR>
+Elle était simple a comprendre, divertissante et donnais a l'utilisateur un plein controle sur son éxperience.
+
+Nous avons ensuite continuer sur celle du <BR>
+Elle a été ma préférer. Amateur de sport, pouvoir en faire tout en s'amusant, qui
+
+
+## Projet préferer
 
 
 ## Installation
