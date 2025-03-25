@@ -9,7 +9,7 @@
 
 ## Introduction
 Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <BR>
-J'ai été joints de mes amis Gabriel Garceau et Jamil Herroug. 
+J'ai été joints de mes amis Gabriel Garceau et Jamil Herroug. <BR>
 Voici ce que j'en ai penser.
 
 ![Entrance](.//Inserer une photo a l'entrée.jpg)
