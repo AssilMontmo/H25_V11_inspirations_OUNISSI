@@ -9,6 +9,7 @@
 
 ## Introduction
 Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <BR>
+J'ai été joints de mes amis Gabriel Garceau et Jamil Herroug. 
 Voici ce que j'en ai penser.
 
 ![Entrance](.//Inserer une photo a l'entrée.jpg)
@@ -28,7 +29,11 @@ La premiere installation visité a été celle de <BR>
 Elle était simple a comprendre, divertissante et donnais a l'utilisateur un plein controle sur son éxperience.
 
 Nous avons ensuite continuer sur celle du <BR>
-Elle a été ma préférer. Amateur de sport, pouvoir en faire tout en s'amusant, qui
+Elle a été ma préférer et j'en parlerais plus en détail un peu plus tard.
+
+Ceci clos notre visite du petit studio, nous sommes ensuite sortis et nous sommes dirigé vers le grand studio. 
+
+a l'entrée, nous avons pu faire 
 
 
 ## Projet préferer
