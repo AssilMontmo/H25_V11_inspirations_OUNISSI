@@ -5,14 +5,11 @@
 - [ ] Type d'exposition: exposition temporaire 
 - [ ] Année de realisation: 2025 
 
-![intro](.//inserer une image de moi.jpg)
 
 ## Introduction
 Les finissant de notre programme TIM ont créer une exposition ensemble, et nous avons eu la chance de la visité. <BR>
 J'ai été joints de mes amis Gabriel Garceau et Jamil Herroug. <BR>
 Voici ce que j'en ai penser.
-
-![Entrance](.//Inserer une photo a l'entrée.jpg)
 
 ## Description
 
@@ -33,10 +30,15 @@ Elle a été ma préférer et j'en parlerais plus en détail un peu plus tard.
 
 Ceci clos notre visite du petit studio, nous sommes ensuite sortis et nous sommes dirigé vers le grand studio. 
 
-a l'entrée, nous avons pu faire 
+A l'entrée, nous avons pu faire tout ce qui nous était disponible
 
 
 ## Projet préferer
+
+Ma préferer fut celle du vélo. En tant que sportif, pouvoir jouer pendant que je fait mon sport est idéal pour accomplir mes objectifs. <BR>
+Le temps passe tres lentement lorsqu'on fait notre cardio. Un jeu immersive comme celui-ci accelere la cadence et nous garde concentré sur nos objectifs. <BR>
+Outre l'aspect fun, j'ai aussi apprécier le fait qu'on puisse y rejouer constamment. J'ai demander aux finissant et les niveaux sont aléatoires. Tu ne pourra pas apprendre la route pour faire un meilleur score a tout les coups. Il faudra toujours que tu t'améliore pour faire un meilleur temps. <BR>
+
 
 
 ## Installation
