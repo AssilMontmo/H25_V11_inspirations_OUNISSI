@@ -14,8 +14,9 @@ Meme si elle fait un travail assez stressant et demandant physique et mentalemen
 
 ## Sphere Packing: Bach
 
+![Sphere](.SphereImage2019.jpg)
 
-
+Source: Site officiel de Lozano-Hemmer - https://www.lozano-hemmer.com/sphere_packing_bach.php
 Mon projet préférer parmis les 2 dont elle nous a parler est Sphere Packing: Bach. 
 L'idée en elle meme m'a beaucoup attirer. Pouvoir montrer la difference entre les différents artistes et leur activité en quelques dispositif est un facon ingénieuse de demontrer les heures de travail necessaire afin d'atteindre le niveau d'un artiste de renom comme Bach. 
 l'installation en elle meme est tres complexe: 
