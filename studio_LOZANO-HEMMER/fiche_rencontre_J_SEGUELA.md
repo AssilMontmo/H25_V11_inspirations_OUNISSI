@@ -14,7 +14,7 @@ Meme si elle fait un travail assez stressant et demandant physique et mentalemen
 
 ## Sphere Packing: Bach
 
-![Sphere](SphereImage2019.jpg) <br>
+![Sphere](./SphereImage2019.jpg) <br>
 
 Source: Site officiel de Lozano-Hemmer - https://www.lozano-hemmer.com/sphere_packing_bach.php <br>
 
