@@ -14,14 +14,18 @@ Meme si elle fait un travail assez stressant et demandant physique et mentalemen
 
 ## Sphere Packing: Bach
 
-![Sphere](.SphereImage2019.jpg)
+![Sphere](SphereImage2019.jpg) <br>
 
-Source: Site officiel de Lozano-Hemmer - https://www.lozano-hemmer.com/sphere_packing_bach.php
-Mon projet préférer parmis les 2 dont elle nous a parler est Sphere Packing: Bach. 
+Source: Site officiel de Lozano-Hemmer - https://www.lozano-hemmer.com/sphere_packing_bach.php <br>
+
+Mon projet préférer parmis les 2 dont elle nous a parler est Sphere Packing: Bach. <br>
 L'idée en elle meme m'a beaucoup attirer. Pouvoir montrer la difference entre les différents artistes et leur activité en quelques dispositif est un facon ingénieuse de demontrer les heures de travail necessaire afin d'atteindre le niveau d'un artiste de renom comme Bach. 
-l'installation en elle meme est tres complexe: 
+l'installation en elle meme est tres complexe: Une sphere en bois est construite, puis 1128 haut-parleures sont installer dans les crevaces, relier a un ordinateur par une tonne de cables pour permettre au son de demarrer. Le tout est ensuite placer dans une grande salle, mise en route et les 1128 haut-parleurs se mettent en marche en meme temp, demarrant un cacophonie avec la musique faite par Bach durant sa vie. Le tout est ensuite mis en marche par plus de 11km de cables éléctriques. <br>
 
 ## Conclusion
 
+Bien que l'oeuvre en elle meme est tres bruyante et qu'en fin de compte, on n'entend qu'une cacophonie de son dont on ne peut rien discerner, 
+
 ## Réferences
-> 📍Colege montmorency, QC, Canada, salle C1712
+> 📍Colege montmorency, QC, Canada
+> Site officiel de Lozano-Hemmer : https://www.lozano-hemmer.com/sphere_packing_bach.php
