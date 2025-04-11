@@ -15,7 +15,7 @@ Même si elle fait un travail assez stressant et demandant physique et mentaleme
 ## Sphere Packing: Bach
 
 ![Sphere](./SphereImage2019.jpg) <br>
-
+**2019 - Museo de Arte Contemporáneo de Monterrey, Monterrey, México** <br>
 Source: Site officiel de Lozano-Hemmer - https://www.lozano-hemmer.com/sphere_packing_bach.php <br>
 
 Mon projet préférer parmi les 2 dont elle nous a parler est Sphere Packing: Bach. <br>
