@@ -9,7 +9,7 @@
 
 Durant ma visite, j'ai été triste de constater que la majorité de l'exposition avait été fermer a l'avance. Je me suis donc diriger vers la seule qui etait toujours ouverte: LE TUNNEL. Bien qu'elle paraissait tres simple, la console pour controler les lumieres m'a attirer et j'ai donc voulu voir sa de plus pret. Meme si ce n'était pas mon choix initial, je n'ai pas été decu. <br>
 
-![Intro](./Medias/Intro.jpg) <br>
+![Intro](.//Medias/Intro.jpg) <br>
 
 ## Éxperience
 
