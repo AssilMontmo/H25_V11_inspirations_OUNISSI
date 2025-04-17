@@ -24,13 +24,19 @@ Au bout de quelques minutes, j'ai pu faire des jeux de lumieres et ai compris co
 ## Les plus
 
 Donner le controle au utilisateur de l'oeuvre était pour moi un grand bonus. 
-![Sphere](./SphereImage2019.jpg) <br>
+![Couleurs](.//Medias/Intro.jpg) <br>
 
 
 ## Les moins
 
 
 ## Mes critiques
+
+![Test](.//Medias/Intro.jpg)
+
+
+
+## Conclusion
 
 ## Références
 > 📍Collège Montmorency, QC, Canada
