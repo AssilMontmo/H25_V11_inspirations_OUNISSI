@@ -1,4 +1,4 @@
-# Fiche d'œuvre : Résonance
+# Fiche d'œuvre : Conférence
 - [ ] Lieu : Collège Montmorency 
 - [ ] Date de la visite: 25/03/2025 
 - [ ] Nom de l'exposition: Conférence avec Jade Séguéla 
