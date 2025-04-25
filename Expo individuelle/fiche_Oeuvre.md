@@ -17,9 +17,7 @@ Durant ma visite, j'ai été triste de constater que la majorité de l'expositio
 
 L'oeuvre se présente tres simple; Un corridor de quelques metres de long est illuminer par des couleurs changeante, qui peuvent etre controller par une console de 3 boutons. <br>
 J'ai regarder ce que d'autre autour de moi faisait et ai essayer moi meme quelques manipulation en essayant de faire un beau mélange de couleurs. <br>
-Au bout de quelques minutes, j'ai pu faire des jeux de lumieres et ai compris comment tout fonctionnait. Je me suis ensuite promener autour pour essayer de reperer ce qui controllais le tout, mais je n'ai pu appercevoir. L'ordinateur qui controle le tout devait surement etre cacher dans un edifice et un cable sous-terrain devait le relier au faisceaux lumineux ainsi qu'a la petite station de controle.  
-
-![Console](.//Medias/Console.jpg) <br>
+Au bout de quelques minutes, j'ai pu faire des jeux de lumieres et ai compris comment tout fonctionnait. Je me suis ensuite promener autour pour essayer de reperer ce qui controllais le tout, mais je n'ai pu appercevoir. L'ordinateur qui controle le tout devait surement etre cacher dans un edifice et un cable sous-terrain devait le relier au faisceaux lumineux ainsi qu'a la petite station de controle. <br>
 
 ## Les plus
 
