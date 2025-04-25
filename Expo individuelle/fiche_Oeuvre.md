@@ -41,5 +41,5 @@ Je trouve en général l'exposition assez intéressante à faire, qu'elle introd
 
 
 ## Références
-> 📍Collège Montmorency, QC, Canada
+> 📍Quartier des spectacle, Montreal, QC, Canada <br>
 > Toutes les photos et vidéos ont été prise par Assil Ounissi avec un Samsung Galaxy S24 FE
