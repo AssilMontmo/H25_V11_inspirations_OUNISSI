@@ -38,8 +38,7 @@ La console n'est pas intuitive. Aucune direction sur la fonctionalité de chaque
 
 J'ai personelement trouver que l'installation était trop simple et que l'interactivité, bien qu'elle ne soit pas trop limité, est trop courte. Apres avoir jouer avec la console de controle et faire quelques passage, 10 minutes suffisent a faire le tour. Si il y avait certaine combinaisons a trouver par exemple en repondant a des enigmes qui nous auraient été fournies, j'aurais préferer cela. <br>
 Cependant, je comprend que l'installation que j'ai visiter n'est pas censer etre complexe. Elle ne sert qu'a introduire les visiteurs a l'exposition. Le fait qu'elle soit proche du metro en est la preuve. <br>
-Je trouve en général l'exposition assez interessante a faire, qu'elle introduit bien le festival en lui meme et que, bien qu'elle n'ai pas été intuitive, est amusante a essayer et experimenter. 
-![Tunnel](.//Medias/Tunnel.jpg)
+Je trouve en général l'exposition assez interessante a faire, qu'elle introduit bien le festival en lui meme et que, bien qu'elle n'ai pas été intuitive, est amusante a éssayer et éxperimenter. 
 
 
 ## Références
