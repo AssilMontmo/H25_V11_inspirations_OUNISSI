@@ -1,4 +1,4 @@
-# Fiche d'œuvre : Résonance
+# Fiche d'œuvre : LE TUNNEL
 - [ ] Lieu : Montréal, quartier des spectacles
 - [ ] Date de la visite: 08/03/2025 
 - [ ] Nom de l'exposition: LE TUNNEL - Lumino
