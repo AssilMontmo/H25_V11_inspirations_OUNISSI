@@ -1,6 +1,6 @@
 ## Introduction: <br>
 
-Durant ma visite, j'ai été triste de constater que la majorité de l'exposition avait été fermée à l'avance. Je me suis donc dirigé vers la seule qui était toujours ouverte : LE TUNNEL. Bien qu'elle paraisse très simple, la console pour contrôler les lumières m'a attiré et j'ai donc voulu voir ça de plus près. Même si ce n'était pas mon choix initial, je n'ai pas été déçu. <br>
+Visite de l'oeuvre LE TUNNEL dans le quartier des spectacles a Montreal. Je vais vous parler de l'interactivité, de ce qui marche bien et de ce qui aurait pu etre ajouter a mon avis pour rendre l'experience plus agréable.  <br>
 
 ## Comment s'y rendre
 
@@ -14,9 +14,7 @@ Le tunnel est onstitué d’une série de 16 structures cosmiques insolites d’
 
 ## Expérience
 
-L'œuvre se présente très simple ; un corridor de quelques mètres de long est illuminé par des couleurs changeantes, qui peuvent être contrôlées par une console de 3 boutons. <br>
-J'ai regardé ce que d'autres autour de moi faisaient et j'ai essayé moi-même quelques manipulations en essayant de faire un beau mélange de couleurs. <br>
-Au bout de quelques minutes, j'ai pu faire des jeux de lumières et j'ai compris comment tout fonctionnait. Je me suis ensuite promené autour pour essayer de repérer ce qui contrôlait le tout, mais je n'ai pu l'apercevoir. L'ordinateur qui contrôle le tout devait surement être caché dans un édifice et un câble souterrain devait le relier aux faisceaux lumineux ainsi qu'à la petite station de contrôle. <br>
+J'y ai passer environ 10 minutes. Une console est disponible pour s'amuser a faire des changements de couleurs, des animations de lumieres et simplement marcher en plein millieu de notre création. Plusieurs combinaisons de lumieres et d'effets sont disponible et j'ai pu explorer les effets a coup d'essai-erreur. 
 
 ## Les plus
 
@@ -24,7 +22,7 @@ Donner le contrôle à l'utilisateur de l'œuvre était pour moi un grand bonus.
 Vu la simplicité de l'installation, peu de personnes y restaient longtemps, donc y accéder fut très rapide. <br>
 
 ## Les moins
-Sa simplicité est une arme à double tranchant. Bien qu'elle rendait l'œuvre facile d'accès, ça rendait aussi l'expérience très courte. <br>
+Bien que ce soit un dispositif facile d'accès, l'expérience fut trop courte. <br>
 La console n'est pas intuitive. Aucune direction sur la fonctionnalité de chaque bouton n'est présente. Une certaine indication pour savoir sur quel bouton appuyer pour avoir un certain effet désiré aurait été appréciée. <br>
 
 ## Conclusion
